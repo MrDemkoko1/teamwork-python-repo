@@ -1,2 +1,3 @@
-# teamwork-python-repo
+# Teamwork python repo
+
 Git/Python practice on Teamwork
